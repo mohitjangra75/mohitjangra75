@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @mohitjangra75
-- 👀 I’m interested in web development.
-- I am avid trader and believe in the principle of change what you can.
-- 🌱 I’m currently learning web development and application development.
+- 👋 Hi, I’m @mohitjangra
+- 👀 I have devoted myself to programming.
 - 📫 My mail id is sharmamohit124507@gmail.com
 - My linkedin account is https://www.linkedin.com/in/mohit-jangra-719a66203/
 
