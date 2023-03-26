@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Django, Javascript, MySQL**
 
-- 📫 How to reach me **sharmamohit124507@gmail.com**
+- 📫 How to reach me **sharmamohit124507@gmail.com (9306123897)**
 
 - ⚡ Fun fact **I don't find myself funny :(**
 
