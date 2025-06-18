@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working as a Software Developer at **League 11**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **GENAI**
 
-- 💬 Ask me about **Python, Django, Javascript, MySQL**
+- 💬 Ask me about **Python, Django, AI/ML, AWS**
 
 - 📫 How to reach me **sharmamohit124507@gmail.com (9306123897)**
 
